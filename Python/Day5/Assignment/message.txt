@@ -1,0 +1,8 @@
+user@computer ~ $ cat message.txt 
+
+Dear ${Sahil}, 
+
+This is a test message. 
+Have a great weekend! 
+
+Yours Truly
